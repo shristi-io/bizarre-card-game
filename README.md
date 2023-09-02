@@ -1,8 +1,4 @@
-# React + Vite
+# JoJo's Bizarre Card Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A memory card game based on the anime and manga series JoJo's Bizarre Adventures by Hirohiko Araki. The rules are simple,
+do not click on the same card twice. I do not own copyright of any of the characters included in this game. I used https://jojos-bizarre-api.netlify.app/ API, a big shoutout to the creator.
